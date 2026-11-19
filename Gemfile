@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'sinatra', '~> 4.1'
+gem 'rackup', '~> 2.2'
+gem 'webrick', '~> 1.9'
+gem 'minitest', '~> 5.25'
